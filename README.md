@@ -38,7 +38,7 @@ Through this project, I practiced organizing a multi-page website with HTML and 
 Viewing the Website
 
 Open `index.html` in a web browser to view the website locally.
-
+https://chiwi-asu.github.io/myfirstportfolio_Rodriguez/
 Author
 
 Created as part of my web development coursework at Arizona State University.
